@@ -6,8 +6,8 @@ A full-stack web application that allows users to browse, search, and book uniqu
 
 ## 🚀 Live Links
 
-- **Frontend (Vercel):** [https://bookitknow-six.vercel.app/]([https://bookitknow-six.vercel.app/](https://bookit-h9k6belpl-mohit-pooniyas-projects.vercel.app/))
-- **Backend (Render):** [https://bookit-now.onrender.com/api/experiences](https://bookit-now.onrender.com/api)
+- **Frontend (Vercel):** [(https://bookit-h9k6belpl-mohit-pooniyas-projects.vercel.app/](https://bookit-h9k6belpl-mohit-pooniyas-projects.vercel.app/)
+- **Backend (Render):** [https://bookit-now.onrender.com/api/](https://bookit-now.onrender.com/api)
 
 ---
 
