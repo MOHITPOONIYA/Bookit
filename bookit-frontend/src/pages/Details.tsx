@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from "react";
+import  { useState, useEffect, useMemo } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { getExperienceDetails } from "../services/api";
 import type { ISlot, IExperienceDetails } from "../services/api";
